@@ -6,7 +6,7 @@ Created on Sat Dec 05 12:49:33 2015
 """
 print("Start Game")
 print("Press enter to continue")
-#pause = raw_input()
+pause = raw_input()
 
 hero_hp = 200
 hero_ap = 50
